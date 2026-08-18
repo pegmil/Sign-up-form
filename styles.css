@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'norseFont';
+    src: url('https://www.joelcarrouche.com/fonts/norse') format('norse');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'norseFont', Arial, Helvetica, sans-serif;
+}
